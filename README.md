@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mjkbr
+- 👋 Hi, I’m @mjbro
 - 👀 I’m interested in making some realistic images
 - 🌱 I’m currently learning IT as a student
 - 💞️ I’m looking to collaborate on some advanced feature of AI that enhance my knowledge and i like to do these things
